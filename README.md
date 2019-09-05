@@ -35,3 +35,5 @@ Get gsutil and download pretrained weights:
 ## Run
 
 `python main.py`
+
+Generated sequences will be saved to the output directory.
