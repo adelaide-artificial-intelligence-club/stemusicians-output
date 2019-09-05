@@ -18,4 +18,4 @@
 
 `sudo snap install google-cloud-sdk --classic`
 
-`gsutil -m cp -R gs://download.magenta.tensorflow.org/models/music_vae/colab2/checkpoints/mel_2bar_big.ckpt.* .`
+`gsutil -m cp -R gs://download.magenta.tensorflow.org/models/music_vae/colab2/checkpoints/mel_2bar_big.ckpt.* checkpoints`
